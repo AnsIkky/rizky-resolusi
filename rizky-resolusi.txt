@@ -1,6 +1,6 @@
 RIZKY RESOLUSI
 - Konsisten untuk belajar koding setiap hari
 - Mengenal game development dasar
-- Bisa membuat gambar pixel
 - Membuat website sederhana
 - Memahami lebih dari satu bahasa pemrograman
+- Lebih memahami pewarnaan dalam seni pixel art
