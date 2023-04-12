@@ -5,4 +5,5 @@ RENCANA LATIHAN
   - mempelajari latihan di kyu 7 di CodeWars
   - melanjutkan latihan JS di freeCodeCamp
 - Latihan CSS di SoloLearn
+- Mencoba latihan di Code Design
 - Belajar Pixel art menggunakan Aseprite
