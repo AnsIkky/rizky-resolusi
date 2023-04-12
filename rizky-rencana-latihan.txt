@@ -1,0 +1,4 @@
+RENCANA LATIHAN
+
+- Latihan JS di CodeWars
+- Latihan CSS di SoloLearn
