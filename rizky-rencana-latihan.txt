@@ -1,9 +1,12 @@
 RENCANA LATIHAN
 
+- Latihan CSS
+  - belajar di SoloLearn
+  - belajar memalui YouTube
 - Latihan JS
   - latihan Kyu 8 di CodeWars
   - mempelajari latihan di kyu 7 di CodeWars
   - melanjutkan latihan JS di freeCodeCamp
-- Latihan CSS di SoloLearn
 - Mencoba latihan di Code Design
 - Belajar Pixel art menggunakan Aseprite
+- Belajar menggunakan Game Engine Godot
