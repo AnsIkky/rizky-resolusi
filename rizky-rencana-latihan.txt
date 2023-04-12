@@ -4,3 +4,4 @@ RENCANA LATIHAN
   - latihan Kyu 8
   - mempelajari latihan di kyu 7
 - Latihan CSS di SoloLearn
+- Belajar Pixel art menggunakan Aseprite
