@@ -1,7 +1,8 @@
 RENCANA LATIHAN
 
-- Latihan JS di CodeWars
-  - latihan Kyu 8
-  - mempelajari latihan di kyu 7
+- Latihan JS
+  - latihan Kyu 8 di CodeWars
+  - mempelajari latihan di kyu 7 di CodeWars
+  - melanjutkan latihan JS di freeCodeCamp
 - Latihan CSS di SoloLearn
 - Belajar Pixel art menggunakan Aseprite
