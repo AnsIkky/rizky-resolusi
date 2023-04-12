@@ -1,4 +1,6 @@
 RENCANA LATIHAN
 
 - Latihan JS di CodeWars
+  - latihan Kyu 8
+  - mempelajari latihan di kyu 7
 - Latihan CSS di SoloLearn
